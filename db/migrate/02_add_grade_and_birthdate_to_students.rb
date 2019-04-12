@@ -1,1 +1,1 @@
-class AddGrade
+class AddGradeAndBirthDateToStudents < Migration
